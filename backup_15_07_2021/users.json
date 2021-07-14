@@ -1,0 +1,601 @@
+[{
+  "_id": {
+    "$oid": "5fef1b32010b6b2b210a9b7a"
+  },
+  "phone": "8319307638",
+  "password": "welcome123",
+  "name": "Saurabh Chaudhary",
+  "root_node": "null",
+  "webapp_access": "X",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef1b55010b6b2b210a9b7b"
+  },
+  "phone": "7376351818",
+  "password": "welcome123",
+  "name": "Manoj Paswan",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef1b6e010b6b2b210a9b7c"
+  },
+  "phone": "9691515793",
+  "password": "welcome123",
+  "name": "Arvind Prajapati",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef1b83010b6b2b210a9b7d"
+  },
+  "phone": "7000986468",
+  "password": "welcome123",
+  "name": "Amit Giri",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef1b99010b6b2b210a9b7e"
+  },
+  "phone": "9284968522",
+  "password": "welcome123",
+  "name": "Arpit Kushwaha",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef1bbc010b6b2b210a9b7f"
+  },
+  "phone": "9399578804",
+  "password": "welcome123",
+  "name": "Shivam ",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef1bd8010b6b2b210a9b80"
+  },
+  "phone": "8718866459",
+  "password": "welcome123",
+  "name": "Brijesh Kushwaha",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fef1bff010b6b2b210a9b81"
+  },
+  "phone": "7974105606",
+  "password": "welcome123",
+  "name": "Sundar Lal Shah",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffddcd4010b6b2b210a9f6f"
+  },
+  "phone": "9584990370",
+  "name": "Ashok Verma",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffe1243010b6b2b210aa032"
+  },
+  "phone": "9926889253",
+  "name": "K. K. Pandey",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffe29f8010b6b2b210aa22d"
+  },
+  "phone": "7566317554",
+  "name": "Om Prakash Pathak",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5ffe6266010b6b2b210aa22f"
+  },
+  "phone": "9340222397",
+  "name": "Ramdayal",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600139d5010b6b2b210aa449"
+  },
+  "phone": "7678416598",
+  "name": "Vishal Dimri",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "X",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60013d91010b6b2b210aa48a"
+  },
+  "phone": "8982397603",
+  "name": "Ashutosh Gupta",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6002a126abb5880d6aa3eead"
+  },
+  "phone": "9669890493",
+  "name": "C.P. Singh",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60042462abb5880d6aa3ef69"
+  },
+  "phone": "7693877266",
+  "name": "Pradeep Tiwari",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6004347aabb5880d6aa3ef78"
+  },
+  "phone": "9691094285",
+  "name": "Shyam Kumar Verma",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60055b4dabb5880d6aa3f064"
+  },
+  "phone": "7974012240",
+  "name": "M. P. Pathak",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60055c03abb5880d6aa3f065"
+  },
+  "phone": "9406712057",
+  "name": "R. K. Halder",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d2d69abb5880d6aa3f283"
+  },
+  "phone": "8299053094",
+  "name": "Aryan Gaund",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d2dc9abb5880d6aa3f284"
+  },
+  "phone": "8299600158",
+  "name": "Diwakar Kharwar",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d2e3cabb5880d6aa3f285"
+  },
+  "phone": "8208500339",
+  "name": "Saurabh Meshram",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d2e99abb5880d6aa3f286"
+  },
+  "phone": "7000431201",
+  "name": "Nitesh Kumar Nawin",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d2ee0abb5880d6aa3f287"
+  },
+  "phone": "7974351227",
+  "name": "Akash Awasthi",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d2f7dabb5880d6aa3f288"
+  },
+  "phone": "7440226786",
+  "name": "Shubham Dixit",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d2fe8abb5880d6aa3f289"
+  },
+  "phone": "8319515226",
+  "name": "Anshul Rajan Singh",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d303babb5880d6aa3f28a"
+  },
+  "phone": "9110911529",
+  "name": "Vikram Kumar",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d3102abb5880d6aa3f28b"
+  },
+  "phone": "9434087764",
+  "name": "SP Gautam",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d3131abb5880d6aa3f28c"
+  },
+  "phone": "6265370535",
+  "name": "Sanjay Meena",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d3258abb5880d6aa3f28d"
+  },
+  "phone": "9425178104",
+  "name": "Shahnawaz Khan",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d327babb5880d6aa3f28e"
+  },
+  "phone": "9413354136",
+  "name": "Pawan Hassani",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d343fabb5880d6aa3f28f"
+  },
+  "phone": "8269995522",
+  "name": "Suresh Lakra",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d3569abb5880d6aa3f290"
+  },
+  "phone": "9406712169",
+  "name": "Laxman Singh",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d3598abb5880d6aa3f291"
+  },
+  "phone": "9406712673",
+  "name": "R.M. Bandra",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d35faabb5880d6aa3f292"
+  },
+  "phone": "9406712246",
+  "name": "L.D. Singh",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600d3644abb5880d6aa3f293"
+  },
+  "phone": "9425836193",
+  "name": "Ajay Ram",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ed8f7210de363525e4196"
+  },
+  "phone": "7440222320",
+  "name": "Abou Zaid",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "X",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600ef103f2a83567c83d67c4"
+  },
+  "phone": "7089675453",
+  "name": "Sateesh Kushwaha",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600fe436b6323e054b38f06b"
+  },
+  "phone": "8224074682",
+  "name": "Rahul Kushwaha",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "600fe4c1b6323e054b38f06c"
+  },
+  "phone": "8115992599",
+  "name": "Daya Shankar",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010020fb6323e054b38f116"
+  },
+  "phone": "6266718840",
+  "name": "Achyuta Das",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6010065db6323e054b38f209"
+  },
+  "phone": "7771046732",
+  "name": "Suraj Kushwaha",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6011a288b6323e054b38f38a"
+  },
+  "phone": "8602220298",
+  "name": "Shubham Singh Chandel",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60162286b6323e054b3901a5"
+  },
+  "phone": "9753158483",
+  "name": "Mantosh Gupta",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60163991b6323e054b3901c1"
+  },
+  "phone": "9165889611",
+  "name": "Kailash Kumar Chandra",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6018e310b6323e054b3904aa"
+  },
+  "phone": "8543051875",
+  "name": "Kritek Kumar Mishra",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "Y",
+  "app_access": "N",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60197e11b6323e054b390a6a"
+  },
+  "phone": "7415999811",
+  "name": "Pankaj Pandey",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6020c026b6323e054b391984"
+  },
+  "phone": "8885227220",
+  "name": "Satish Chettubattina",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6020e6c6b6323e054b391985"
+  },
+  "phone": "9406711186",
+  "name": "A. P. Ekka",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "602b2c9e3315ea72cc348aa4"
+  },
+  "phone": "6387249596",
+  "name": "Pankaj Gupta",
+  "password": "welcome123",
+  "root_node": "null",
+  "webapp_access": "N",
+  "app_access": "Y",
+  "root_node_name": "VSTPS Stage 1",
+  "__v": 0
+}]
