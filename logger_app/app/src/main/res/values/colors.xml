@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#247A9D</color>
+    <color name="colorPrimaryDark">#247A9D</color>
+    <color name="colorAccent">#03DAC5</color>
+
+<!--    <color name="uptickBackground">#14CC78</color>-->
+    <color name="uptickBackground">#FF2C3E50</color>
+<!--    <color name="downtickBackground">#247A9D</color>-->
+    <color name="downtickBackground">#FF2C3E50</color>
+
+    <color name="buttonColor">#FF2C3E50</color>
+
+    <color name="colorRed">#FF2222</color>
+    <color name="colorGreen">#22FF22</color>
+
+<!--    <color name="colorListItem1">#FFF44336</color>-->
+<!--    <color name="colorListItem2">#FF4A148C</color>-->
+<!--    <color name="colorListItem3">#FF004D40</color>-->
+<!--    <color name="colorListItem4">#FFD84315</color>-->
+<!--    <color name="colorListItem5">#FFC2185B</color>-->
+<!--    <color name="colorListItem6">#FF263238</color>-->
+<!--    <color name="colorListItem7">#FF827717</color>-->
+
+
+    <color name="colorListItem1">#CF2C3E50</color>
+    <color name="colorListItem2">#CF2C3E50</color>
+    <color name="colorListItem3">#CF2C3E50</color>
+    <color name="colorListItem4">#CF2C3E50</color>
+    <color name="colorListItem5">#CF2C3E50</color>
+    <color name="colorListItem6">#CF2C3E50</color>
+    <color name="colorListItem7">#CF2C3E50</color>
+</resources>

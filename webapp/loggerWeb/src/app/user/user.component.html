@@ -1,0 +1,70 @@
+<h2>{{title}}</h2>
+<div class="btnCont">
+    <button mat-raised-button class="col-sm-1 addButton" color="primary" (click)="add()"> Create New User</button>
+    <button *ngIf="webapp_access=='X'" mat-raised-button class="col-sm-1 addButton" color="warn" (click)="structure_admin()"> Structure Admin</button>
+</div>
+<h2 class="hiddenTextClass">a</h2>
+<mat-list *ngFor="let user of users">
+    <mat-card class="userClass" *ngIf="!user.is_hidden">
+        <h3 class="col-sm-1" *ngIf="!user.edit_enabled" >{{user.name}}</h3>
+        <div class="col-sm-1" *ngIf="user.edit_enabled" >
+            <form>
+                <mat-form-field>
+                <mat-label>Name</mat-label>
+                <input matInput placeholder="Ex. Binod" [(ngModel)]="user.name" name="Name" value="{{user.name}}">
+                </mat-form-field>
+            </form>
+        </div>
+        
+        <h3 class="col-sm-1" *ngIf="!user.edit_enabled" >{{user.phone}}</h3>
+        <div class="col-sm-1" *ngIf="user.edit_enabled" >
+            <form>
+                <mat-form-field>
+                <mat-label>Phone</mat-label>
+                <input matInput placeholder="Ex. 9876543210" [(ngModel)]="user.phone" name="Phone" value="{{user.phone}}">
+                </mat-form-field>
+            </form>
+        </div>
+
+        <h3 class="col-sm-1" *ngIf="!user.edit_enabled && webapp_access=='X'" >{{user.password}}</h3>
+        <h3 class="col-sm-1" *ngIf="!user.edit_enabled && webapp_access=='Y'" >**************</h3>
+        <div class="col-sm-1" *ngIf="user.edit_enabled" >
+            <form>
+                <mat-form-field>
+                <mat-label>Password</mat-label>
+                <input matInput placeholder="Ex. abc@1234" [(ngModel)]="user.password" name="Password" value="{{user.password}}">
+                </mat-form-field>
+            </form>
+        </div>
+
+        <h4 class="col-sm-1" *ngIf="!user.edit_enabled" >Webapp access :  {{user.webapp_access}}</h4>
+        <div class="col-sm-1" *ngIf="user.edit_enabled" class="structCompClass">
+            <mat-form-field appearance="fill">
+                <mat-label>Webapp Access</mat-label>
+                <mat-select (click)=" $event.stopPropagation();" [(ngModel)]="user.webapp_access" >
+                <mat-option *ngFor="let option of options_webapp" [value]="option">
+                    {{option}} 
+                </mat-option>
+                </mat-select>
+            </mat-form-field>
+        </div>
+
+        <h4 class="col-sm-1" *ngIf="!user.edit_enabled" >Android access :  {{user.app_access}}</h4>
+        <div class="col-sm-1" *ngIf="user.edit_enabled" class="structCompClass">
+            <mat-form-field appearance="fill">
+                <mat-label>Android Access</mat-label>
+                <mat-select (click)=" $event.stopPropagation();" [(ngModel)]="user.app_access" >
+                <mat-option *ngFor="let option of options_android" [value]="option">
+                    {{option}} 
+                </mat-option>
+                </mat-select>
+            </mat-form-field>
+        </div>
+
+
+
+            <button mat-raised-button class="col-sm-1 customButton" color="accent" *ngIf="!user.edit_enabled" [disabled]="webapp_access=='Y' && user.webapp_access=='X'" (click)="editEnable(user)">Edit</button>
+            <button mat-raised-button class="col-sm-1 customButton" color="accent" *ngIf="user.edit_enabled" (click)="update(user)" >Update</button>
+            <button mat-raised-button class="col-sm-1 customButton" color="warn" [disabled]="webapp_access=='Y' && user.webapp_access=='X'" (click)="delete(user)">Delete</button>
+    </mat-card>
+</mat-list>

@@ -1,0 +1,48 @@
+.mat-expansion-panel-header { 
+    margin-top: 15px;
+    background: transparent !important;
+}
+
+.mat-expansion-panel-header-overlay{
+    background-color: transparent;
+}
+
+.mat-raised-button{
+    height : 80%;
+    margin-left: 5vw;
+}
+
+.structTitleClass {
+    font-size: 12px;
+    width : 20vw;
+}
+
+.structCompClass {
+    font-size: 12px;
+}
+
+.structComp2Class{
+    font-size: 12px;
+    margin-left: 24px;
+}
+
+.structComp3Class{
+    margin-left: 24px;
+}
+
+.L0Class{
+    display: flex;
+}
+
+.mat-form-field{
+    width: 100px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 28px;
+    margin-top: 12px;
+    margin-bottom: 24px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
