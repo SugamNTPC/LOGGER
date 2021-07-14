@@ -1,0 +1,1 @@
+ssh -i "sugamNTPC.pem" ubuntu@ec2-65-2-3-91.ap-south-1.compute.amazonaws.com

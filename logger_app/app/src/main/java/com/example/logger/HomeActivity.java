@@ -33,6 +33,10 @@ public class HomeActivity extends AppCompatActivity {
         View hView =  navigationView.getHeaderView(0);
         TextView homeHeaderName = hView.findViewById(R.id.home_header_name);
         TextView homeHeaderPhone = hView.findViewById(R.id.home_header_phone);
+        final LoggerApplication loggerApp = ((LoggerApplication) getApplicationContext());
+        String version = loggerApp.get_Version();
+        TextView homeVersion = hView.findViewById(R.id.home_version);
+        homeVersion.setText("VERSION : " + version);
 
         final Realm realm = Realm.getDefaultInstance();
         realm.beginTransaction();

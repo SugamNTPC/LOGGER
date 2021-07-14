@@ -6,7 +6,8 @@ import io.realm.RealmConfiguration;
 
 public class LoggerApplication extends Application {
 
-    private String mServerIp = "3.134.88.27:3000";
+    private String mVersion = "1.0.2";
+    private String mServerIp = "65.2.3.91:3000";
     private String mInitNodeId = "5f7f8a00afb260649723b339";
 
     @Override
@@ -21,4 +22,5 @@ public class LoggerApplication extends Application {
         return mServerIp;
     }
     public String get_InitNode_Id(){ return mInitNodeId; }
+    public String get_Version(){ return mVersion; }
 }
